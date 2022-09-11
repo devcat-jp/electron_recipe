@@ -1,11 +1,11 @@
 ## 使用法 
-### pnpmを使用した初期化 
+### npmを使用した初期化 
 ```
-$ pnpm init
+$ npm init -y
 ```
 ### electronを環境に追加
 ```
-$ pnpm install electron --save-dev
+$ npm install electron --save-dev
 ```
 ### package.jsonの修正
 ```
@@ -17,5 +17,5 @@ $ vim package.json
 ```
 ### 起動
 ```
-$ pnpm start
+$ npm start
 ```

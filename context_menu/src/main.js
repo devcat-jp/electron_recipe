@@ -28,7 +28,7 @@ const createWindow = () => {
   ipcMain.on('menu:showContextMenu', () => menu.popup())
 
   // htmlを指定
-  win.loadFile('index.html')
+  win.loadFile(path.join(__dirname, 'index.html'))
 }
 
 // readyイベント発生後にのみ「BrowserWindow」が呼べる仕様

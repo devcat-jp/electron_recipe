@@ -11,7 +11,7 @@ $ npm install electron --save-dev
 ```
 $ vim package.json
 - "main": "index.js",
-+ "main": "main.js",
++ "main": "./src/main.js",
 - "package-name": "echo \"Error: no test specified\" && exit 1"
 + "start": "electron ."
 ```

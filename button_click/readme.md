@@ -1,6 +1,6 @@
 ### 実行例
 ボタンをクリックすると数字が増加していきます  
-<img src="images/cap.png" width="100%">  
+<img src="images/cap.png" width="50%">  
 
 ## 使用法 
 ### 確認環境

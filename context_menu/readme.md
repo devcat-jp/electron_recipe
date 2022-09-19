@@ -1,8 +1,10 @@
 ### 実行例
 右クリックするとメニューが表示されます  
 <img src="images/cap.png" width="30%">  
+
 ## 使用法 
 ### 確認環境
+windows11
 node.js：16.17.0  
 electron：20.1.3  
 

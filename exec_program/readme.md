@@ -4,7 +4,7 @@
 
 ## 使用法 
 ### 確認環境
-Windows11
+Windows11  
 node.js：16.17.0  
 electron：20.1.3  
 
